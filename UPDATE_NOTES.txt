@@ -1,0 +1,15 @@
+V2 CHANGES
+- Homepage language now reflects that Camille is beginning PSP.
+- Why Sales is more personal and ties together recruiting, coaching, leadership, and Gartner.
+- PSP section is explicitly written from the perspective of an incoming PSP student.
+- Accomplishments no longer imply later-stage PSP experience.
+- Existing navy/cream/light-blue polished design retained.
+
+Still to personalize:
+- exact 5–9 classes
+- 3 testimonials
+- 3 references
+- introduction video
+- writing sample
+- presentation sample
+- 2 additional portfolio items
