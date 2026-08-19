@@ -1,22 +1,25 @@
-UPLOAD THESE TO YOUR GitHub REPOSITORY:
-- index.html
-- styles.css
-- script.js
-- assets folder
+CAMILLE O'CONNOR PORTFOLIO UPDATE
 
-ADD THESE FILES INSIDE assets:
-- headshot.jpg
-- Camille_OConnor_Resume.pdf
-- writing-sample.pdf
-- presentation.pdf
+This version includes:
+- headshot
+- current résumé
+- About Me
+- Why Sales
+- beginning-of-PSP section
+- grouped relevant coursework
+- accomplishments
+- writing sample
+- 2-page presentation sample
+- Gartner internship reflection
+- leadership spotlight
+- professional references
+- actual LinkedIn and email
 
-BEFORE FINAL SUBMISSION:
-- Replace YOUR_EMAIL_HERE with your email.
-- Replace the LinkedIn link with your personalized LinkedIn URL.
-- Add your introduction-video URL.
-- Add 3 testimonials.
-- Add 3 professional references.
-- Update the coursework list to your exact 5–9 classes.
-- Review the bio, five adjectives, Why Sales, PSP wording and accomplishments.
-- Add two extra portfolio items for the PSP requirement.
-- Test every link.
+Still to finish:
+1. Replace the three testimonial placeholders when quotes arrive.
+2. Add the introduction video URL.
+3. Add photos to the Gartner and Leadership sections if desired.
+4. Review all wording before final submission.
+5. Test every link after publishing.
+
+Upload the CONTENTS of this unzipped folder to the root of your GitHub repository.
