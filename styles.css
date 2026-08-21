@@ -38,3 +38,7 @@
 .testimonial-card p{margin:0 0 14px;line-height:1.65}
 .testimonial-card p:last-of-type{margin-bottom:16px}
 .testimonial-card strong{color:var(--navy)}
+
+.psp-overview-card{margin-bottom:30px}
+.psp-overview-card p{max-width:950px;margin-bottom:0}
+.portfolio-card p em{color:var(--navy)}

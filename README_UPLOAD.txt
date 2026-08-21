@@ -1,26 +1,13 @@
-FINAL PSP WEBSITE PACKAGE
+FINAL CLEAN PSP WEBSITE
 
-This package restores the full Portfolio section and includes:
-- Resume
-- Sales role-play
-- Writing sample
-- PowerPoint sample
-- Accomplishments
-- Gartner Internship Reflection
-- Leadership Spotlight
-- My Mission
-- Sales & Business Books
-- 2 real testimonials + 1 coming-soon placeholder
-- Professional references
-- Corrected Unified Talent Group wording
-- Corrected Professional Selling Program wording
-- Clearly labeled WHY SALES? section
-- Introduction video removed
-- Optional '3 qualities' card removed
+Updates:
+- Portfolio uses consistent cards instead of oversized subheadings.
+- Resume, sales role-play, writing sample, presentation sample, mission statement, and books are restored.
+- Added a clear "What is the Professional Selling Program?" overview.
+- Existing accomplishments, Gartner reflection, Leadership Spotlight, testimonials, and references remain.
 
-EASIEST PUBLISH METHOD:
-1. Unzip this folder.
-2. Upload/replace index.html and styles.css at the ROOT of your GitHub repository.
-3. Upload/replace assets/sales-role-play.mp4 inside the existing assets folder.
-4. All your existing resume, writing sample, presentation, headshot, and photo assets should remain.
-5. Commit changes and hard-refresh camilleoconnor.com.
+UPLOAD:
+1. Replace index.html in the repository root.
+2. Replace styles.css in the repository root.
+3. Keep/upload assets/sales-role-play.mp4 in the assets folder.
+4. Commit and hard-refresh camilleoconnor.com.
