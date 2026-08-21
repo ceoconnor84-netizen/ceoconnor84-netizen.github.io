@@ -34,3 +34,7 @@
   .photo-story{grid-template-columns:1fr;}
   .photo-feature img,.photo-supporting img{min-height:0;max-height:none;}
 }
+
+.testimonial-card p{margin:0 0 14px;line-height:1.65}
+.testimonial-card p:last-of-type{margin-bottom:16px}
+.testimonial-card strong{color:var(--navy)}
