@@ -42,3 +42,6 @@
 .psp-overview-card{margin-bottom:30px}
 .psp-overview-card p{max-width:950px;margin-bottom:0}
 .portfolio-card p em{color:var(--navy)}
+
+.foundation-grid{margin-top:0}
+.foundation-quote{font-family:Georgia,serif;font-size:1.12rem;line-height:1.55}
