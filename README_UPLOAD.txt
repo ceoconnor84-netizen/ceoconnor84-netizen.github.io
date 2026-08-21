@@ -1,16 +1,14 @@
-FINAL PSP WEBSITE UPDATE
+FINAL PSP WEBSITE VERSION
 
-This version adds:
-- Clearly labeled WHY SALES? section
-- SALES ROLE-PLAY section with compressed class role-play video
-- MY MISSION section
-- SALES & BUSINESS BOOKS section
-- Previous Unified Talent Group / Professional Selling Program fixes
-- Existing testimonial placeholders remain until real testimonials are received
+Changes:
+- Introduction Video card removed.
+- Introduction video asset removed from this package.
+- Required Sales Role-Play remains.
+- Final higher-quality role-play is included as assets/sales-role-play.mp4.
+- WHY SALES?, My Mission, Sales & Business Books, and all prior corrections remain.
 
 UPLOAD:
-Replace index.html in the repository root.
-Upload assets/sales-role-play.mp4 into the repository's existing assets folder.
-Commit both changes.
-
-The compressed role-play is approximately 13 MB, safely below the 35 MB limit discussed.
+1. Replace index.html in the root of your GitHub repository.
+2. Replace/upload assets/sales-role-play.mp4.
+3. You may delete intro-video-hq.mp4 from GitHub assets if you want; it is no longer linked anywhere.
+4. Commit changes and refresh the site.
