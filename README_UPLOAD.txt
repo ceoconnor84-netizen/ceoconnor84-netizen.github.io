@@ -1,21 +1,16 @@
-PHOTO UPDATE
+FINAL PSP WEBSITE UPDATE
 
 This version adds:
-- Gartner feature photo
-- Gartner intern/team photo
-- Alpha Delta Pi executive board photo
-- Director of New Member Experience photo
+- Clearly labeled WHY SALES? section
+- SALES ROLE-PLAY section with compressed class role-play video
+- MY MISSION section
+- SALES & BUSINESS BOOKS section
+- Previous Unified Talent Group / Professional Selling Program fixes
+- Existing testimonial placeholders remain until real testimonials are received
 
-To publish:
-1. Unzip this folder.
-2. Upload index.html, styles.css, and script.js to the ROOT of your GitHub repository.
-3. Open the assets folder in GitHub.
-4. Upload the four new photo files from this folder's assets directory:
-   - gartner-main.jpeg
-   - gartner-team.jpeg
-   - leadership-execboard.jpg
-   - leadership-role.jpg
-5. Commit changes.
-6. Wait 1-2 minutes, then hard-refresh camilleoconnor.com.
+UPLOAD:
+Replace index.html in the repository root.
+Upload assets/sales-role-play.mp4 into the repository's existing assets folder.
+Commit both changes.
 
-You do not need to delete the existing headshot, resume, writing sample, or presentation sample.
+The compressed role-play is approximately 13 MB, safely below the 35 MB limit discussed.
